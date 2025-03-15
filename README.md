@@ -1,5 +1,10 @@
 # sexevent-and-incest
 
+## genetics of aesthetics
+fading style
+fading envelope
+
+## notes
 genomic State
 
 closureBar
