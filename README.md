@@ -4,6 +4,7 @@
 fading style
 fading envelope
 ## collision against YEN
+## bigtime diss-cussions, bigtime solutions
 
 ## notes
 genomic State
