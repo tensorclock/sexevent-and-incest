@@ -3,6 +3,7 @@
 ## genetics of aesthetics
 fading style
 fading envelope
+## collision against YEN
 
 ## notes
 genomic State
